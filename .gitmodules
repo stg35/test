@@ -1,0 +1,6 @@
+[submodule "client-react-test"]
+	path = client-react-test
+	url = git@github.com:stg35/client-react-test.git
+[submodule "node-back-test"]
+	path = node-back-test
+	url = git@github.com:stg35/node-back-test.git
